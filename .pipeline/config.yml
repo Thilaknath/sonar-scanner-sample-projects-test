@@ -1,0 +1,4 @@
+general:
+  buildTool: 'npm'
+  gitSshKeyCredentialsId: 'gitget-userid-password'
+
